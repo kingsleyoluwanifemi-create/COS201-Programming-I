@@ -1,7 +1,7 @@
 public class FirstProgram {
     public static void main(String[] args) {
         System.out.println("Course: COS 201 - Computer Programming I");
-        System.out.println("Programme: Computer Science"); 
+        System.out.println("Programme: Software Engineering"); 
         
         System.out.println("\n--- Why Programming Matters ---");
         System.out.println("1. Fundamental for building software systems and backend architecture.");

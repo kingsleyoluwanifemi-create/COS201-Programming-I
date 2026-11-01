@@ -1,9 +1,9 @@
 # COS 201 - Computer Programming I
 
 ## Student Details
-- **Name:** Kelvin  Gabriel Ukpong
-- **Matriculation Number:** 25/17314
-- **Programme:** Computer Science
+- **Name:** Olanrewaju Oluwanifemi Kingsley
+- **Matriculation Number:** 25/16101
+- **Programme:** Software Engineering
 - **Course Code:** COS201
 
 ---
